@@ -24,8 +24,6 @@
 - <img src="https://api.iconify.design/ph:envelope-simple-duotone.svg?color=%23CC334f " width="20" align="center"/> **Contact:** Reach out to me at **[brian@brianalterescu.com](mailto:brian@brianalterescu.com)**
 - <img src="https://api.iconify.design/ph:file-text-duotone.svg?color=%23CC334f " width="20" align="center"/> **Resume:** Check out my full experience **[here](https://brianalterescu.com/Resume.pdf)**.
 
----
-
 ### <img src="https://api.iconify.design/ph:wrench-duotone.svg?color=%23CC334f " width="28" align="center"/> Languages & Tools
 
 <div align="center">
@@ -54,7 +52,6 @@
       <td align="center"><a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a></td>
       <td align="center"><a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a></td>
       <td align="center"><a href="https://en.wikipedia.org/wiki/MultiValue" target="_blank"><img src="https://avatars.githubusercontent.com/u/50502251?s=200&v=4" alt="MultiValue" height="40"/></a></td>
-      <td align="center"></td>
     </tr>
   </table>
 </div>
